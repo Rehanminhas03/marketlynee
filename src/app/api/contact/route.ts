@@ -28,7 +28,7 @@ export async function POST(request: NextRequest) {
     // Email content for you (the receiver)
     const mailOptionsToAdmin = {
       from: process.env.EMAIL_USER,
-      to: "support@marketlyn.com",
+      to: "support@marketlyne.com",
       subject: `New Contact Form Submission from ${name}`,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">

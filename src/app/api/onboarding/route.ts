@@ -108,7 +108,7 @@ export async function POST(request: NextRequest) {
     // Email to admin
     const mailOptionsToAdmin = {
       from: process.env.EMAIL_USER,
-      to: "support@marketlyn.com",
+      to: "support@marketlyne.com",
       subject: `New Onboarding Submission: ${firstName} ${lastName} - ${planDisplay}`,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">
@@ -248,7 +248,7 @@ export async function POST(request: NextRequest) {
             </ul>
 
             <p style="color: #555; line-height: 1.6;">
-              If you have any questions in the meantime, feel free to reach out to us at <a href="mailto:support@marketlyn.com" style="color: #d5b367;">support@marketlyn.com</a> or call us at <a href="tel:+13073107054" style="color: #d5b367;">+1 (307) 310-7054</a>.
+              If you have any questions in the meantime, feel free to reach out to us at <a href="mailto:support@marketlyne.com" style="color: #d5b367;">support@marketlyne.com</a> or call us at <a href="tel:+13073107054" style="color: #d5b367;">+1 (307) 310-7054</a>.
             </p>
 
             <div style="text-align: center; margin-top: 30px;">

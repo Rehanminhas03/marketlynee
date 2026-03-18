@@ -72,7 +72,7 @@ const termsContent = [
       "Message and data rates may apply.",
       "Wireless carriers are not responsible for delayed, failed, or undelivered messages.",
       "To opt out, reply STOP to any message.",
-      "For assistance, reply HELP or contact support@marketlyn.com.",
+      "For assistance, reply HELP or contact support@marketlyne.com.",
     ],
   },
   {
@@ -103,7 +103,7 @@ const termsContent = [
   {
     title: "15. Contact and Support",
     content:
-      "Support inquiries are addressed within five (5) business days. For questions regarding these Terms, please contact us at support@marketlyn.com.",
+      "Support inquiries are addressed within five (5) business days. For questions regarding these Terms, please contact us at support@marketlyne.com.",
   },
 ];
 

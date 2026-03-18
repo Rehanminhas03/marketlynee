@@ -42,7 +42,7 @@ const sections = [
     content: "Proper reporting is essential for refund eligibility.",
     list: [
       "Any concerns regarding service quality or delivery must be reported within 48 hours of the issue being identified.",
-      "All reports must be submitted in writing to support@marketlyn.com with specific details and examples.",
+      "All reports must be submitted in writing to support@marketlyne.com with specific details and examples.",
       "Failure to report issues within 48 hours constitutes acceptance of the services, rendering them ineligible for refund."
     ]
   },
@@ -79,7 +79,7 @@ const sections = [
     content: "Additional terms governing refunds:",
     list: [
       "Refunds are issued only to the original payment method used at sign-up.",
-      "Refund requests must be submitted in writing to support@marketlyn.com.",
+      "Refund requests must be submitted in writing to support@marketlyne.com.",
       "Marketlyn LLC reserves the right to review, validate, and approve all refund claims.",
       "Refund eligibility is strictly limited to the circumstances outlined in this Policy.",
       "Change of mind, voluntary withdrawal, inactivity, or failure to execute the Agreement does not qualify for a refund."
@@ -189,10 +189,10 @@ export default function RefundPolicyPage() {
                 <p className="text-white">
                   <span className="text-white/50">Email: </span>
                   <a
-                    href="mailto:support@marketlyn.com"
+                    href="mailto:support@marketlyne.com"
                     className="text-[#d5b367] hover:underline"
                   >
-                    support@marketlyn.com
+                    support@marketlyne.com
                   </a>
                 </p>
               </div>

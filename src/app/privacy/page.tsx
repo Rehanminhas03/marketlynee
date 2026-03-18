@@ -86,7 +86,7 @@ const sections = [
     list: [
       "You may opt out of marketing communications at any time.",
       "You may request a copy of the data we hold about you.",
-      "Requests can be sent to support@marketlyn.com."
+      "Requests can be sent to support@marketlyne.com."
     ]
   },
   {
@@ -206,10 +206,10 @@ export default function PrivacyPage() {
                 <p className="text-white">
                   <span className="text-white/50">Email: </span>
                   <a
-                    href="mailto:support@marketlyn.com"
+                    href="mailto:support@marketlyne.com"
                     className="text-[#d5b367] hover:underline"
                   >
-                    support@marketlyn.com
+                    support@marketlyne.com
                   </a>
                 </p>
               </div>
