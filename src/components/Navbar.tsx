@@ -28,7 +28,7 @@ const navItems = [
 
 const portalItems = [
   { name: "SEO Portal", link: "/seo-portal" },
-  { name: "RE Portal", link: "https://re.marketlyn.com/login" },
+  { name: "RE Portal", link: "https://re.marketlyne.com/login" },
   { name: "SMM Portal", link: "/smm-portal" },
 ];
 
