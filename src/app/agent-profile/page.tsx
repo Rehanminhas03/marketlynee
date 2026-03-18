@@ -842,11 +842,11 @@ export default function AgentProfilePage() {
             >
               <p className="text-white/50 text-sm mb-2">Or email us directly at</p>
               <a
-                href="mailto:info@marketlyn.com"
+                href="mailto:info@marketlyne.com"
                 className="inline-flex items-center gap-2 text-[#d5b367] hover:text-[#e8d5a3] transition-colors"
               >
                 <IconMail className="w-5 h-5" />
-                info@marketlyn.com
+                info@marketlyne.com
               </a>
             </motion.div>
           </motion.div>

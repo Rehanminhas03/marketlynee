@@ -69,7 +69,7 @@ const sections = [
     content: "We collect mobile phone numbers only when voluntarily submitted by users. Phone numbers are used solely for service-related communications including lead notifications, onboarding updates, account alerts, and support messages. SMS consent is not shared with third parties or affiliates. Users may opt out at any time by replying STOP.",
     paragraphs: [
       "Mobile information will not be shared with third parties or affiliates for marketing or promotional purposes.",
-      "By submitting your phone number and opting in, you consent to receive SMS messages from Marketlyn. Consent is not a condition of purchase."
+      "By submitting your phone number and opting in, you consent to receive SMS messages from Marketlyne. Consent is not a condition of purchase."
     ]
   },
   {

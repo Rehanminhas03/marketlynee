@@ -66,7 +66,7 @@ const termsContent = [
   {
     title: "9. SMS Terms",
     content:
-      "Marketlyn may send SMS messages related to service updates, lead notifications, onboarding communication, and account support.",
+      "Marketlyne may send SMS messages related to service updates, lead notifications, onboarding communication, and account support.",
     list: [
       "Message frequency varies.",
       "Message and data rates may apply.",

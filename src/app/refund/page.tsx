@@ -10,7 +10,7 @@ import Link from "next/link";
 const sections = [
   {
     title: "Money-Back Guarantee on Marketing Services",
-    content: "Marketlyn LLC provides a conditional money-back guarantee tied strictly to service delivery and quality as defined below. Results, revenue, or conversion outcomes are not guaranteed due to market conditions and client-controlled factors.",
+    content: "Marketlyne LLC provides a conditional money-back guarantee tied strictly to service delivery and quality as defined below. Results, revenue, or conversion outcomes are not guaranteed due to market conditions and client-controlled factors.",
     paragraphs: [
       "Refunds are not automatic and are subject to verification under this Policy."
     ]
@@ -21,11 +21,11 @@ const sections = [
     subsections: [
       {
         title: "Failure to Deliver Services",
-        content: "If Marketlyn LLC fails to deliver the agreed-upon marketing services within 90 days from the execution date of the Service Agreement."
+        content: "If Marketlyne LLC fails to deliver the agreed-upon marketing services within 90 days from the execution date of the Service Agreement."
       },
       {
         title: "Significant Service Deficiencies",
-        content: "If the delivered services contain significant deficiencies that materially deviate from the agreed scope. The client must report the issue within the required timeframe. Marketlyn LLC will first attempt to rectify the issue. If not resolved within 30 days, the client may request a refund."
+        content: "If the delivered services contain significant deficiencies that materially deviate from the agreed scope. The client must report the issue within the required timeframe. Marketlyne LLC will first attempt to rectify the issue. If not resolved within 30 days, the client may request a refund."
       },
       {
         title: "Technical Failures",
@@ -56,7 +56,7 @@ const sections = [
       },
       {
         title: "Resolution Period",
-        content: "For issues related to service quality: Marketlyn LLC will attempt to resolve the reported issues within 30 days. If resolution is not provided within this period, a refund request may be submitted for review."
+        content: "For issues related to service quality: Marketlyne LLC will attempt to resolve the reported issues within 30 days. If resolution is not provided within this period, a refund request may be submitted for review."
       },
       {
         title: "90-Day Commitment and Evaluation Period",
@@ -71,7 +71,7 @@ const sections = [
       "Clients agree to follow this refund process before initiating any chargeback or payment dispute.",
       "Initiating a chargeback without first submitting a written refund request constitutes a material breach of this Policy and the Agreement.",
       "Unauthorized chargebacks may result in immediate service termination and forfeiture of refund eligibility.",
-      "Marketlyn LLC reserves the right to submit this Policy, signed agreements, delivery logs, and communication history to payment processors as dispute evidence."
+      "Marketlyne LLC reserves the right to submit this Policy, signed agreements, delivery logs, and communication history to payment processors as dispute evidence."
     ]
   },
   {
@@ -80,7 +80,7 @@ const sections = [
     list: [
       "Refunds are issued only to the original payment method used at sign-up.",
       "Refund requests must be submitted in writing to support@marketlyne.com.",
-      "Marketlyn LLC reserves the right to review, validate, and approve all refund claims.",
+      "Marketlyne LLC reserves the right to review, validate, and approve all refund claims.",
       "Refund eligibility is strictly limited to the circumstances outlined in this Policy.",
       "Change of mind, voluntary withdrawal, inactivity, or failure to execute the Agreement does not qualify for a refund."
     ],
@@ -110,7 +110,7 @@ export default function RefundPolicyPage() {
               Refund Policy
             </h1>
             <p className="mt-4 text-lg text-white/60 max-w-3xl mx-auto">
-              This Refund Policy governs the terms and conditions related to refund eligibility for the service fee associated with the Service Agreement executed with Marketlyn LLC.
+              This Refund Policy governs the terms and conditions related to refund eligibility for the service fee associated with the Service Agreement executed with Marketlyne LLC.
             </p>
             <p className="mt-4 text-sm text-white/40">
               Effective for a period of 90 days from the date of execution of the Service Agreement

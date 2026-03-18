@@ -204,7 +204,7 @@ export async function POST(request: NextRequest) {
             </div>
 
             <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; color: #999; font-size: 12px;">
-              <p>This email was sent from the Marketlyn onboarding form.</p>
+              <p>This email was sent from the Marketlyne onboarding form.</p>
             </div>
           </div>
         </div>
@@ -215,11 +215,11 @@ export async function POST(request: NextRequest) {
     const mailOptionsToUser = {
       from: process.env.EMAIL_USER,
       to: email,
-      subject: "Welcome to Marketlyn! Your Onboarding is Complete",
+      subject: "Welcome to Marketlyne! Your Onboarding is Complete",
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">
           <div style="background: linear-gradient(135deg, #d5b367, #c9a555); padding: 20px; border-radius: 10px 10px 0 0;">
-            <h1 style="color: #161616; margin: 0; font-size: 24px;">Welcome to Marketlyn!</h1>
+            <h1 style="color: #161616; margin: 0; font-size: 24px;">Welcome to Marketlyne!</h1>
           </div>
 
           <div style="background-color: #ffffff; padding: 30px; border-radius: 0 0 10px 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
@@ -252,14 +252,14 @@ export async function POST(request: NextRequest) {
             </p>
 
             <div style="text-align: center; margin-top: 30px;">
-              <a href="${process.env.NEXT_PUBLIC_SITE_URL || "https://marketlyn.com"}"
+              <a href="${process.env.NEXT_PUBLIC_SITE_URL || "https://marketlyne.com"}"
                  style="display: inline-block; background: linear-gradient(135deg, #d5b367, #c9a555); color: #161616; padding: 12px 30px; text-decoration: none; border-radius: 25px; font-weight: bold;">
                 Visit Our Website
               </a>
             </div>
 
             <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; color: #999; font-size: 12px;">
-              <p>Best regards,<br>The Marketlyn Team</p>
+              <p>Best regards,<br>The Marketlyne Team</p>
             </div>
           </div>
         </div>

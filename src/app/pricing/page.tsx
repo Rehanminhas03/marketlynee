@@ -395,11 +395,11 @@ const toolsReplaced = [
 // FAQ items
 const faqItems = [
   {
-    question: "What marketing services does Marketlyn offer?",
+    question: "What marketing services does Marketlyne offer?",
     answer: "We offer comprehensive digital marketing services including SEO, PPC advertising, social media marketing, content creation, email marketing, video production, and brand development.",
   },
   {
-    question: "What makes Marketlyn different from other agencies?",
+    question: "What makes Marketlyne different from other agencies?",
     answer: "We combine AI-powered strategies with human expertise to deliver measurable results. Our one-time pricing model means no monthly retainers, and our dedicated team works exclusively on your success.",
   },
   {
@@ -407,7 +407,7 @@ const faqItems = [
     answer: "Each plan includes a comprehensive marketing strategy tailored to your needs. Dealflow includes essential setup and social media management, MarketEdge adds advanced campaigns, PPC, and email automation, and ClosePoint provides full-service marketing with video production and a dedicated account manager.",
   },
   {
-    question: "How do I get started with Marketlyn?",
+    question: "How do I get started with Marketlyne?",
     answer: "Simply choose a plan that fits your needs and click 'Get Started'. Our team will reach out within 24 hours to schedule an onboarding call and begin developing your strategy.",
   },
   {
@@ -538,7 +538,7 @@ export default function PricingPage() {
           </div>
         </section>
 
-        {/* Section 3: Why Choose Marketlyn */}
+        {/* Section 3: Why Choose Marketlyne */}
         <section id="how-we-work" className="relative z-10 max-w-6xl mx-auto px-4 mb-32">
           <motion.div
             className="text-center mb-16"
@@ -629,7 +629,7 @@ export default function PricingPage() {
           </div>
         </section>
 
-        {/* Section 5: At Marketlyn, we simplify */}
+        {/* Section 5: At Marketlyne, we simplify */}
         <section className="relative z-10 max-w-6xl mx-auto px-4 mb-32">
           <motion.h2
             className="text-3xl md:text-4xl font-bold text-white mb-4"

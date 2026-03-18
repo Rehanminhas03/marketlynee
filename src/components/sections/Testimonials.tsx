@@ -14,7 +14,7 @@ const testimonials = [
     role: "Marketing Director",
     company: "TechStart Inc",
     content:
-      "Marketlyn transformed our business. We went from struggling with visibility to having a consistent pipeline of qualified prospects.",
+      "Marketlyne transformed our business. We went from struggling with visibility to having a consistent pipeline of qualified prospects.",
     bgColor: "#d5b367", // Gold
     textColor: "#161616",
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=face",
